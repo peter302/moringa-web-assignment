@@ -11,9 +11,9 @@
 *
 {for the web to load makes sure you are connected to the Internet. You don't need to to install any dependency to to run the application}
 ## Known Bugs
-{No current know bugs }
+{No known bugs }
 ## Technologies Used
-{the Application is developed using HTML in atom text editor.}
+{the Application is developed using HTML and CSS in atom text editor.}
 ## Support and contact details
 {if you encounter an issue in my code please do not hesitate to contact me @petermbaik@gmail.com, if necessary please do make corrections}
 ### License
