@@ -1,8 +1,8 @@
-# {my-pet-webpage}
-#### {The web gives a brief history about a friend of mine called jungle}, {28-6-2018}
-#### By **{peter kuria,tarek}**
+# {my-portfolio webpage}
+#### {The web gives a brief history about my life}, {28-6-2018}
+#### By **{peter kuria}**
 ## Description
-{This is a simple website about my best friend Jungle.It is used for learning for purposes learning}
+{This is a simple website about my life,education and career.It is used for learning for purposes learning}
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
