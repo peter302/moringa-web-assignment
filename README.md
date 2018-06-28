@@ -1,17 +1,17 @@
 # {my-pet-webpage}
-#### {Brief description of application}, {Date of current version}
+#### {The web gives a brief history about a friend of mine called jungle}, {28-6-2018}
 #### By **{peter kuria,tarek}**
 ## Description
-{This is a simple website developed just for learning}
+{This is a simple website about my best friend Jungle.It is used for learning for purposes learning}
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
 * in a simple
-* easy-to-understand
-* format
+*
+*
 {for the web to load makes sure you are connected to the Internet. You don't need to to install any dependency to to run the application}
 ## Known Bugs
-{while the web is loaded the Image is not opening are not opening, this hasn't been corrected yet }
+{No current know bugs }
 ## Technologies Used
 {the Application is developed using HTML in atom text editor.}
 ## Support and contact details
