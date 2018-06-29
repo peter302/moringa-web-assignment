@@ -1,0 +1,30 @@
+.main{
+  background-color: green;
+  font-size: 20;
+  float:top
+}
+.second{
+  background-color: white;
+  font-size: 20;
+  float:left;
+}
+.third{
+  background-color: red;
+  font-size: 20;
+  float: left;
+}
+.fourth{
+  background-color: white;
+  font-size:20;
+  float:left;
+}
+.fifth{
+  background-color: black;
+  font-size: 20;
+  float: left;
+}
+.six,.seven{
+  background-color: green;
+  font-size: 20;
+  float: left;
+}
