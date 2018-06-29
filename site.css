@@ -1,6 +1,6 @@
 body{
   margin:0;
-  background-image: url("kuria.jpg");
+  background-image: url("birds.jpg");
   text-decoration-color: White;
   height:100%;
   width:100%;
@@ -10,6 +10,7 @@ body{
 }
 .cointainer{
   position: relative;
+  text-color:White;
   float: right;
   orientation:horizontal;
   padding:0;
@@ -28,6 +29,7 @@ body{
   }
 .second{
   font-size: 20;
+  text-color: red;
   padding:0;
   margin:0;
   box-sizing: 0;
@@ -41,6 +43,7 @@ body{
 }
 .fourth{
   font-size:20;
+  float:right;
   padding:0;
   margin:0;
   box-sizing: 0;
