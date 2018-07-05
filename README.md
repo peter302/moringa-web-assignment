@@ -2,7 +2,7 @@
 #### {The web gives a brief history about my life}, {28-6-2018}
 #### By **{peter kuria}**
 ## Description
-{This is a simple website about my life,education and career.It is used for learning for purposes learning}
+{This is a simple website about my life,education and career.It is used for learning for purposes learning.This is the link to my website https://peter302.github.io/moringa-web-assignment/}
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
